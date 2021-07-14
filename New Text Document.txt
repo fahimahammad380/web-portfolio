@@ -1,3 +1,16 @@
 1. Float: left; korle height kno thake na.
+2. border-image-slice: 1; kno dite hoy gradient er somoy
 
 **Will resume from>Part1>4Build>hero6
+
+
+
+echo "# test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/fahimahammad380/test.git
+git push -u origin main
+
+https://mega.nz/folder/33hDDIKT#IYBwZr8uKXV1nGq88l-bag
